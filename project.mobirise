@@ -1,0 +1,98 @@
+{
+  "settings": {
+    "name": "Site-07-29_0653",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.10.6",
+    "siteFonts": [],
+    "uniqCompNum": 2,
+    "versionPublish": "4.10.6"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "50",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=RqbBnruIRfw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "VIDEO EMBED",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"tel:+919034429632\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-0"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://r4---sn-ci5gup-pmjd.googlevideo.com/videoplayback?expire=1564430858&amp;ei=qf0-Xe3UKsTPz7sP16mOsAE&amp;ip=2401%3A4900%3A40bd%3A2d17%3Afc5a%3Ac54%3A5249%3Ab03c&amp;id=o-AHQs8XwHma5aLiq8Z89_aZaSk-mJHS28wd27nxKWSCHc&amp;itag=43&amp;source=youtube&amp;requiressl=yes&amp;mm=31%2C29&amp;mn=sn-ci5gup-pmjd%2Csn-ci5gup-qxae7&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=3&amp;pcm2cms=yes&amp;pl=44&amp;initcwndbps=205000&amp;mime=video%2Fwebm&amp;gir=yes&amp;clen=2565646&amp;ratebypass=yes&amp;dur=0.000&amp;lmt=1563555930013200&amp;mt=1564409202&amp;fvip=6&amp;c=WEB&amp;txp=6201222&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&amp;sig=ALgxI2wwRQIgK2xl5fMzWkKWwxixlzrr-C9z3POOzbtP_qS1zdnqRTQCIQCQb4kPE6x9OsjrpYGpHpjP8QctYi8TDSWBw4KKYImyOA%3D%3D&amp;lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&amp;lsig=AHylml4wRQIhAKk8xTZ_Fit1SEkwRdLw2Qet-7AKAZQ1ZEQ42kaEe1gUAiBc5mGv8-3cNdIEjj508EprVl0gjoOXzR86xsSZydL4-w%3D%3D\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WIN</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1"
+        }
+      ]
+    }
+  }
+}
